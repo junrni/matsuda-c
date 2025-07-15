@@ -18,6 +18,7 @@
 --
 -- Table structure for table `comments`
 --
+/*db接続設定*/
 
 DROP TABLE IF EXISTS `comments`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;

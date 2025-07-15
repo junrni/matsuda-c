@@ -1,6 +1,6 @@
 <<<<<<< HEAD:htdocs/index.php
 <?php
-session_start(); // セッション開始を追加
+session_start(); // セッション開始
 
 // データベース接続関数 (db.phpに分離)
 require 'db.php';
